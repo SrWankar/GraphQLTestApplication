@@ -1,0 +1,11 @@
+query FeedResults{
+  characters{
+        results{
+            name
+            species
+            gender
+            image
+            type
+        }
+    }
+}
